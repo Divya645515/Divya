@@ -18,7 +18,7 @@ h2 {
     
 }
 
-}
+
 header {
     text-align: center;
     margin: auto 2em;
@@ -93,11 +93,112 @@ h1, h2 {
     padding-left: 57em;
     text-indent: 100px;
   }
+
+
+
+
+.name{
+  font-size: 25px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-weight: 600;
+}
+.sum{
+  color: red;
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:center;
+
+}
+.pra{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  
+}
+.col{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+
+}
+.col span{
+  padding-left: 550px;
+
+}
+.col1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+
+}
+.col1 span{
+  padding-left: 415px;
+
+}
+.dep{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+
+}
+.dep span{
+  padding-left: 600px;
+
+}
+.bgs{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+
+}
+.bgs span{
+  padding-left: 632px;
+
+}
+.list li{
+  font-size: 15px;
+  padding-bottom: 5px;
  
-  dev10 {
-    text-align: center;
+  font-weight: 700;
+}
+.list li span{
+  font-size: 15px;
+  font-weight: 200;
+}
+.key{
+  display: flex;
+  gap: 50px;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
+  
+}
+.key .sub1{
+  width: 680px;
+}
+.key .sub2{
+  width: 680px;
+}
+.key .sub3{
+  width: 680px;
+}
+  .languages{
+    display: flex;
+    gap: 200px;
+    font-size: 15px;
+    padding-top: 5px;
   }
-  
-
-
-  
+  .pro1{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-weight: 600;
+  }
+  .p span{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    
+  }
+  .p{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+ 
